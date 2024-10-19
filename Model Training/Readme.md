@@ -1,0 +1,1 @@
+### This section describes the process of training the machine learning models used in the Heart Disease and Diabetes Prediction web application. It outlines the necessary steps, techniques, and considerations for effectively training the models using the provided datasets.
