@@ -1,0 +1,1 @@
+### This folder contains the datasets used for training the machine learning models for predicting heart disease and diabetes. These datasets are crucial for the performance of the models and help in making accurate predictions based on user input.
