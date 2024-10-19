@@ -1,0 +1,1 @@
+### This folder contains all the necessary database files for managing and storing data for the Heart Disease and Diabetes Prediction web application. The database is a key component of the system, used for storing user input, prediction results, and contact form submissions.
