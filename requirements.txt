@@ -1,5 +1,4 @@
 Flask==2.3.2
 numpy==1.24.0
-pickle5==0.0.12
 sqlite3
 gunicorn==20.1.0
